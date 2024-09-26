@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727362570937" clover="3.2.0">
+  <project timestamp="1727362570937" name="All files">
+    <metrics statements="62" coveredstatements="53" conditionals="15" coveredconditionals="15" methods="15" coveredmethods="13" elements="92" coveredelements="81" complexity="0" loc="62" ncloc="62" packages="3" files="6" classes="6"/>
+    <package name="src">
+      <metrics statements="10" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="App.tsx" path="/Users/usuario/Desktop/unow/tech-test-unow-frontend/src/App.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="router.tsx" path="/Users/usuario/Desktop/unow/tech-test-unow-frontend/src/router.tsx">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="vite-env.d.ts" path="/Users/usuario/Desktop/unow/tech-test-unow-frontend/src/vite-env.d.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="42" coveredstatements="39" conditionals="15" coveredconditionals="15" methods="10" coveredmethods="9"/>
+      <file name="UserDetail.tsx" path="/Users/usuario/Desktop/unow/tech-test-unow-frontend/src/components/UserDetail.tsx">
+        <metrics statements="20" coveredstatements="19" conditionals="11" coveredconditionals="11" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="25" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+      </file>
+      <file name="UserTable.tsx" path="/Users/usuario/Desktop/unow/tech-test-unow-frontend/src/components/UserTable.tsx">
+        <metrics statements="22" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="11" type="stmt"/>
+        <line num="9" count="11" type="stmt"/>
+        <line num="10" count="11" type="stmt"/>
+        <line num="11" count="11" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="11" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="11" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="42" count="8" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="githubAPI.ts" path="/Users/usuario/Desktop/unow/tech-test-unow-frontend/src/services/githubAPI.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
